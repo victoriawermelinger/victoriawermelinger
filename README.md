@@ -14,7 +14,7 @@
 
 ### Colaboração / Collaboration
 - 🏆 Projetos em que já colaborei e cursos que fiz estão disponíveis nos meus repositórios.
--     Projects I have collaborated on and courses I have taken are available in my repositories.
+   Projects I have collaborated on and courses I have taken are available in my repositories.
 
 ### Curiosidades / Fun Facts
 - ⚡ **Fato curioso:** Sou formada em Administração e Técnica em Logística, e também trabalhei como corretora no mercado de imóveis. 
