@@ -1,5 +1,5 @@
   Como me encontrar:
-Nome: Victoria Sabbatino Wermelinger
+Nome: Victoria Sabbatino Wermelinger <p>
 GitHub: @victoriawermelinger
 Email: victoriasabbatinowermelinger@gmail.com
 LinkedIn: Victoria Sabbatino Wermelinger
