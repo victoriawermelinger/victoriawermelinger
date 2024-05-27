@@ -13,7 +13,7 @@
 - 🌱 Atualmente, estou aprendendo para me tornar uma engenheira de dados. / I am currently learning to become a data engineer.
 
 ### Colaboração / Collaboration
-- 🏆 Projetos em que já colaborei e cursos que fiz estão disponíveis nos meus repositórios.
+- 🏆 Projetos em que já colaborei e cursos que fiz estão disponíveis nos meus repositórios./
    Projects I have collaborated on and courses I have taken are available in my repositories.
 
 ### Curiosidades / Fun Facts
