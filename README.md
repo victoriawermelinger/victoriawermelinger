@@ -1,7 +1,3 @@
-Claro! Aqui está o README.md formatado corretamente para o GitHub:
-
----
-
 ## Olá! 👋
 
 ### Como me encontrar:
