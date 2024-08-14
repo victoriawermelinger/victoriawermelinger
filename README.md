@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="center">Olá, me chamo Victroria Wermelinger ! Bem vindo ao meu perfil do GitHub 👋</h3>
+<h1 align="center">Olá, me chamo Victroria! Bem vindo ao meu perfil do GitHub 👋</h1>
 
 ###
 
