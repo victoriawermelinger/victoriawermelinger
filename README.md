@@ -2,7 +2,9 @@
 
 <h1 align="center">Olá, me chamo Victoria! Bem vindo ao meu perfil do GitHub 👋</h1>
 
-###
+### 
+<img align="right" height="150" src="https://github.com/victoriawermelinger/victoriawermelinger/blob/716de75248706108aed2b00790016d3f3765b597/octocat-1723416867123.png" />
+
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif"  />
 
