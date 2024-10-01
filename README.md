@@ -55,3 +55,7 @@
 ### Curiosidades / Fun Facts
 - ⚡ **Fato curioso:** Sou formada em Administração e Técnica em Logística, e também trabalhei como corretora no mercado de imóveis. 
 -  **Fun fact:** I have a degree in Business Administration and a technical degree in Logistics, and I also worked as a real estate broker.
+
+- ## Conquistas Relacionadas
+- Conquista no Microsoft Learn: [Acesse aqui](https://learn.microsoft.com/api/achievements/share/pt-br/VICTORIAWERMELINGER-8520/J9GEVWST?sharingId=187B2FC72947EA40)
+
