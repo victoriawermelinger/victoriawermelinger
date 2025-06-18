@@ -52,22 +52,35 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+### 🎯 Interesses / Interests
+- 👀 Tenho grande interesse na área de **dados e tecnologia**  
+  / I am deeply interested in the **data and technology** field  
+- 💡 Apaixonada por **organização**, **estruturação de informações** e **resolução de problemas**  
+  / Passionate about **organization**, **information structuring**, and **problem-solving**
 
-###
-### Interesses / Interests
-- 👀 Estou interessada na área de dados. / I am interested in the field of data.
-- 💡 Tenho paixão por organização e informações. / I have a passion for organization and information.
+---
 
-### Aprendizado / Learning
-- 🌱 Atualmente, estou aprendendo para me tornar uma engenheira de dados. / I am currently learning to become a data engineer.
+### 📚 Aprendizado / Learning
+- 🌱 Atualmente, estou me desenvolvendo como **analista de dados**, com foco em ferramentas como Python, SQL, Power BI e Pandas  
+  / I am currently growing as a **data analyst**, focusing on tools such as Python, SQL, Power BI, and Pandas  
+- 🎓 Me preparando para uma futura **formação em Ciência de Dados**  
+  / Preparing for a future **degree in Data Science**
 
-### Colaboração / Collaboration
-- 🏆 Projetos em que já colaborei e cursos que fiz estão disponíveis nos meus repositórios./
-   Projects I have collaborated on and courses I have taken are available in my repositories.
+---
 
-### Curiosidades / Fun Facts
-- ⚡ **Fato curioso:** Sou formada em Administração e Técnica em Logística, e também trabalhei como corretora no mercado de imóveis. 
--  **Fun fact:** I have a degree in Business Administration and a technical degree in Logistics, and I also worked as a real estate broker.
+### 🤝 Colaboração / Collaboration
+- 🏆 Projetos que desenvolvi e cursos que concluí estão disponíveis aqui nos meus repositórios  
+  / Projects I've worked on and courses I've completed are available here in my repositories
+
+---
+
+### ✨ Curiosidades / Fun Facts
+- ⚡ **Fato curioso:** Sou formada em **Administração** e **Técnica em Logística**, e já atuei como **corretora de imóveis**  
+  / **Fun fact:** I hold a degree in **Business Administration** and a **technical degree in Logistics**, and I've worked as a **real estate broker**
+
+---
+
+
 
 - ## Conquistas Relacionadas
 - Conquista no Microsoft Learn: https://learn.microsoft.com/api/achievements/share/pt-br/VICTORIAWERMELINGER-8520/J9GEVWST?sharingId=187B2FC72947EA40
